@@ -1,0 +1,4 @@
+-- Data loading script
+-- Source: staging.inventory_raw
+-- Dataset: 989 records
+-- Valid purchases: 475 records
